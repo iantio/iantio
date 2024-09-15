@@ -1,5 +1,5 @@
 # Presentacion
--me gusta programar en c#, asi que la mayoria de mis proyecto eston programados en ese lenguje, hay veces igual en las que programo en python que igual me gusta ya que tiene librerias que son muy utiles
+-me gusta programar en c#, asi que la mayoria de mis proyecto estan programados en ese lenguje, hay veces igual en las que programo en python que igual me gusta ya que tiene librerias que son muy utiles
 ## Enlaces:
 -Proyectos Academicos: https://github.com/iantio-duoc
 -Proyectos Personales: https://github.com/EdgeDxH
